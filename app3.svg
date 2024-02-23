@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="28"
+   height="28"
+   viewBox="0 0 28 28"
+   version="1.1"
+   id="svg19"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+  <title
+     id="title2">ic_ag</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs11">
+    <linearGradient
+       x1="18"
+       y1="0"
+       x2="18"
+       y2="36"
+       id="linearGradient-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.7777778,0,0,0.7777778,-2.0000001,-2.0000001)">
+      <stop
+         stop-color="#FB6361"
+         offset="0"
+         id="stop6"
+         style="stop-color:#0081d1;stop-opacity:1;" />
+      <stop
+         stop-color="#ED3E45"
+         offset="1"
+         id="stop8"
+         style="stop-color:#0081d1;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <g
+     id="ic_ag"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd">
+    <g
+       id="编组"
+       transform="translate(2,2)">
+      <path
+         d="M 5.856333,-2 C 0.1039766,-2 -2,0.10360967 -2,5.8548003 V 18.1452 C -2,23.89639 0.1039766,26 5.856333,26 h 12.28359 C 23.892116,26 26,23.89639 26,18.1452 V 5.8548003 C 26,0.10360967 23.896023,-2 18.143667,-2 Z"
+         id="Fill-1"
+         fill="url(#linearGradient-1)"
+         style="fill:url(#linearGradient-1);stroke-width:0.777779" />
+      <path
+         d="m 10.213485,14.239418 h 1.124096 L 10.77362,12.927858 Z M 9.93668,14.900373 9.6031642,15.663499 h -0.7593 l 1.6146938,-3.663274 h 0.65623 l 1.608167,3.663274 h -0.779554 l -0.329239,-0.763126 z m 12.218339,0.760425 h 0.733869 V 12 h -0.733869 z m -2.920852,-1.57261 h 1.352742 v -0.667482 h -1.352742 v -0.750298 h 1.963738 v -0.667707 h -2.697383 v 3.660573 h 2.768046 V 14.995567 H 19.234167 Z M 16.318266,14.520723 15.486277,12 h -0.607171 l -0.83199,2.520723 -0.809708,-2.518698 h -0.791707 l 1.277802,3.663499 H 14.339 l 0.833339,-2.4064 0.83334,2.4064 h 0.620897 l 1.274427,-3.663499 H 17.129776 Z M 7.7235927,14.098314 c 0,0.595918 -0.2959336,0.914357 -0.8333398,0.914357 -0.5403317,0 -0.8378405,-0.327666 -0.8378405,-0.939787 v -2.070408 h -0.743772 v 2.095838 c 0,1.03093 0.5729633,1.622122 1.5714855,1.622122 1.0084241,0 1.5865634,-0.602445 1.5865634,-1.652728 V 12.000225 H 7.7235927 Z M 3.5341649,12.000225 H 4.2774867 V 15.66575 H 3.5341649 V 14.177081 H 1.8548831 v 1.488669 h -0.743772 v -3.665525 h 0.743772 v 1.478543 h 1.6792818 z"
+         id="path14"
+         fill="#ffffff"
+         style="stroke-width:0.777779" />
+      <path
+         d="m 12,7.3333333 c -2.5734628,0 -4.6666667,-2.0934285 -4.6666667,-4.6666666 h 0.659176 c 0,2.209555 1.797936,4.0072658 4.0074907,4.0072658 2.209555,0 4.007491,-1.7977108 4.007491,-4.0072658 h 0.659176 c 0,2.5732381 -2.093428,4.6666666 -4.666667,4.6666666"
+         id="Fill-3"
+         fill="#ffffff"
+         style="stroke-width:0.777779" />
+    </g>
+  </g>
+  <metadata
+     id="metadata1034">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>ic_ag</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

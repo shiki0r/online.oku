@@ -1,0 +1,9 @@
+.forma{
+    text-align: center;
+    border-radius: 10px;
+    border: black;
+    padding: 50px;
+    font-size: 50px;
+    margin-top: 250px;
+    color: rgb(48, 110, 110);
+}
